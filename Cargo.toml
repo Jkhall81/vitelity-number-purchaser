@@ -1,0 +1,12 @@
+[package]
+name = "rust_browser_bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+inquire = "0.6"
+anyhow = "1.0"
+enigo= "0.1"
+rand = "0.8"
+arboard = "3.2.0"
+device_query = "3.0.1"
